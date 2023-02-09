@@ -1,0 +1,11 @@
+x1 is DXI with a decimal value of 511
+x2 is  with a decimal value of 0
+x1 and x2 are equal?  false
+
+Reset x2:
+x2 is now XID with a decimal value of 509
+x1 and x2 are equal?  false
+
+Increment x2:
+x2 is now DXI with a decimal value of 511
+x1 and x2 are equal?  true
